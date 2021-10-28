@@ -37,6 +37,7 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   org.eclipse.tptp.platform.models,
   com.ibm.rational.test.lt.datacorrelation.execution.http,
   com.ibm.rational.test.lt.execution.http,
-  com.ibm.rational.test.lt.http.common
+  com.ibm.rational.test.lt.http.common,
+  org.eclipse.hyades.test.core
 Automatic-Module-Name: B2C_913
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
