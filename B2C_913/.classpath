@@ -5,6 +5,5 @@
 	<classpathentry kind="src" output="bin" path="src"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/Emerald/zippedExtLibs/RPTKHelpers.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
